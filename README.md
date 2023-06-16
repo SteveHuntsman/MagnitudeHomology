@@ -1,4 +1,4 @@
-Copyright (c) 2023, Steve Huntsman. All rights reserved.
+Unless otherwise specified, all files here are copyright (c) 2023, Steve Huntsman. All rights reserved.
 
 This work is licensed under the Creative Commons
 Attribution-NonCommercial-ShareAlike 4.0 International License. To view a
