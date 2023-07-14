@@ -1,3 +1,5 @@
+The PDF deck gives examples; the TeX source has scripts to reproduce the examples in comments.
+
 Unless otherwise specified, all files here are copyright (c) 2023, Steve Huntsman. All rights reserved.
 
 Unless otherwise specified, this work is licensed under the Creative Commons
