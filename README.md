@@ -1,4 +1,4 @@
-The PDF deck gives examples; the TeX source has scripts to reproduce the examples in comments.
+The PDF deck gives examples for magnitude homology using the code; the TeX source has scripts to reproduce the examples in comments.
 
 Unless otherwise specified, all files here are copyright (c) 2023, Steve Huntsman. All rights reserved.
 
